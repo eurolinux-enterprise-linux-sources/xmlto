@@ -1,3 +1,4 @@
-# ELS - Enterprise Linux/EuroLinux Sources - xmlto 
+# ELS - Enterprise Linux/EuroLinux Sources - xmlto
+ 
 ## Usage:
-  Checkout branch or tag.
+  Checkout branch or tag. Use `make sources` to recreate  SOURCE0 archive.
